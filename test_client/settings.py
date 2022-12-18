@@ -133,7 +133,7 @@ LOGIN_URL = '/login/'
 SSO_ROOT = 'http://localhost:8000'
 
 # Specify application token obtained in SSO server in the admin panel
-SSO_TOKEN = 'NZvsvdCrqd21mGih1PWDzIMeTNNeDw80JxigPuHZvB4TWmyTeByYoSgijEeskAXX9xHwgxbMt4vsqRw6gavKiuxIxfpMYdlLFFkVwXf206pI72tGP3CFSlFQ1I0Efu9R'
+SSO_TOKEN = 'hsAwwvyDk5POctEkhFPgSudT3Gi4U1BFzX5Z59PLW43WHA0TrqLPjnmZi0Gd6tYwhDsQjhrrrMZv7c9ipathWb8uvh05SqCjhedjjd4h78S7VLM2EvnW8TUkoxiXCN56'
 
 # Overriding event acceptor class (OPTIONAL). For more details read "Overriding event acceptor in subordinated service" partition
 # SSO_EVENT_ACCEPTOR_CLASS = 'project.my_overrides.MySSOEventAcceptor'
